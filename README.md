@@ -73,8 +73,9 @@ If something goes wrong, the log file can be shared for troubleshooting.
 
 ```bash
 pip install -r requirements.txt
-python mplus2excel.py --input "." --output "Competing_Measurement_Models.xlsx" ```
+python mplus2excel.py --input "." --output "Competing_Measurement_Models.xlsx" 
 
+```
 
 Optional arguments:
 --pattern "*.out" → restrict files
@@ -101,7 +102,7 @@ Audit tab: Parsed values for verification and transparency
 ---
 
 ## 👨‍💻 **Who Maintains This?**  
-This project was created by **Prof. Llewellyn E. van Zyl** out of frustration with LinkedIn’s terrible feed algorithm.  
+This project was created by **Prof. Llewellyn E. van Zyl** .  
 
 - 🌍 **Website:** [www.psynalytics.com](https://www.psynalytics.com)  
 - 🔗 **GitHub:** [@llewellynvz](https://github.com/llewellynvz) 
